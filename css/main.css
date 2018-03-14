@@ -1,0 +1,449 @@
+#LOGO {
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+#rules_home {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: .4rem;
+  Line-Height: 30pt;
+  font-size: 20px;
+  color: white;
+}
+
+body {
+  background-color: white;
+  color: #9BE4EC;
+}
+
+a {
+  align: right;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #132841;
+}
+
+.dropdown-item {
+  font-weight: 500;
+  font-size: 14px;
+  color: #132841;
+}
+
+header {
+  border-bottom: 4px solid #F04B37; rouge
+  background: white;
+}
+
+#header2 {
+  border-bottom: 4px solid #132841; rouge
+  background: white;
+}
+
+.navigation {
+  display: inline-flex;
+  justify-content: space-between;
+}
+
+.menu_haut {
+  display: inline-flex;
+}
+
+#homepage {
+  background-color: #132841; bleu
+  color: #9BE4EC;
+  padding-bottom: 80px;
+  padding-top: 1px;
+}
+
+#partie1 {
+  background-color: #132841; bleu
+  color: #9BE4EC;
+  padding-bottom: 80px;
+}
+
+#partie_menu {
+  background-color: #132841; bleu
+  color: #9BE4EC;
+  padding-bottom: 80px;
+  padding-top: 1px;
+}
+
+#partie1a {
+  background: #9BE4EC;
+  color: white;
+  padding-bottom: 80px;
+}
+
+#partie1b {
+  background: #9BE4EC;
+  color: white;
+}
+
+#partie2 {
+  background: #F04B37; rouge
+  color: white;
+  padding-bottom: 80px;
+}
+
+#HR {
+  color: white;
+}
+
+#HR2 {
+  background-color: #9BE4EC;
+  color: #132841;
+}
+
+footer {
+  border-top: 4px solid #F04B37;
+  background: white;
+  padding: 15px;
+}
+
+#footer2 {
+  border-top: 4px solid #F04B37;
+  background: white;
+  padding: 15px;
+}
+
+.menu_bas {
+  display: flex;
+  float: right;
+}
+
+#footer2 {
+  border-top: 4px solid #132841;
+  background: white;
+}
+
+h1 {
+  font-family: 'Contrail One', cursive;
+  color: #F04B37;
+  font-size: 60px;
+  text-align: center;
+  padding: 40px;
+}
+
+#H1_2 {
+  font-family: 'Contrail One', cursive;
+  color: #132841;
+  font-size: 60px;
+  text-align: center;
+  padding: 40px;
+}
+
+h2 {
+  font-family: 'Contrail One', cursive;
+  color: #F04B37;
+  text-align: center;
+  margin-top: 70px;
+}
+
+#H2_2 {
+  font-family: 'Contrail One', cursive;
+  color: #132841;
+  text-align: center;
+  margin-top: 70px;
+}
+
+h3 {
+  font-family: 'Contrail One', cursive;
+  color: white;
+  text-align: center;
+  font-weight: 20px;
+}
+
+#thumbwar {
+  text-align: center;
+}
+
+#thumbwar1 {
+  width: 100%;
+  padding-top: 40px;
+}
+
+#thumbwar2 {
+  width: 80%;
+  padding-top: 40px;
+}
+
+#thumbwar3 {
+  width: 80%;
+  padding-top: 40px;
+}
+
+#explication {
+  text-align: center;
+}
+
+#explication2 {
+  text-align: center;
+  border: 2px solid #F04B37;
+  border-radius: 10px;
+  background-color: white;
+  color: #132841;
+  width: 1000px;
+  height: 200px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#game_choice{
+  padding-top: 60px;
+}
+
+#bouton_game {
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#bouton-level {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  text-align: center;
+  color: #F04B37;
+  margin: 10px;
+}
+
+#rules {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  letter-spacing: .3rem;
+  Line-Height: 30pt;
+}
+
+#perso {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  color: white;
+  margin: 10px;
+  text-align: center;
+}
+
+#cisor{
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #F04B37;
+  width: 160px;
+  height: 189px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#rock {
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #F04B37;
+  width: 160px;
+  height: 189px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#paper{
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #F04B37;
+  width: 160px;
+  height: 189px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#lezard {
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #F04B37;
+  width: 160px;
+  height: 189px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#spoke {
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: #F04B37;
+  width: 160px;
+  height: 189px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+/* #choice {
+  display: flex;
+  justify-content: center;
+} */
+
+#schema2 {
+  text-align: center;
+}
+
+#illu-choice {
+  text-align: center;
+}
+
+#boutton-astronaut {
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 12%;
+  height: 12%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#boutton-astronaut2 {
+  border: 2px solid white;
+  border-color: #132841;
+  border-radius: 10px;
+  width: 12%;
+  height: 12%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#boutton-frog {
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 12%;
+  height: 12%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#boutton-frog2 {
+  border: 2px solid white;
+  border-color: #132841;
+  border-radius: 10px;
+  width: 12%;
+  height: 12%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#video {
+  text-align: center;
+}
+
+#discover {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  letter-spacing: .3rem;
+  font-size: 20px;
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 65px;
+  border: 4px;
+  border-color: red;
+  border-radius: 10px;
+}
+
+element.style {
+    border: 2px solid grey;
+}
+
+.form-group.sb-search-open .search-label,
+.no-js .sb-search .search-label {
+	background: #a0d7e2;
+	color: #fff;
+	z-index: 11;
+}
+
+.search-form .form-group input.form-control::-webkit-input-placeholder{
+  display:none;
+}
+.search-form .form-group input.form-control::-moz-placeholder{
+  display:none;
+}
+.navbar-right{
+  min-width: 300px; /*or I can probably just use columns*/
+}
+.navbar-right form{
+  width:100%;
+}
+.form-group{
+  position:relative;
+  width:0%;
+  min-width:60px;
+  height:60px;
+  overflow:hidden;
+  transition: width 1s;
+  backface-visibility:hidden;
+}
+.form-group input.form-control{
+  position:absolute;
+  top:0;
+  right:0;
+  outline:none;
+  width:100%;
+  height:60px;
+  margin:0;
+  z-index:10;
+}
+input[type="text"].form-control{
+  -webkit-appearence:none;
+  -webkit-border-radius:0;
+}
+.form-control-submit,
+.search-label{
+  width:60px;
+  height:60px;
+  position:absolute;
+  right:0;
+  top:0;
+  padding:0;
+  margin:0;
+  text-align:center;
+  cursor:pointer;
+  line-height:60px;
+  background:white;
+}
+.form-control-submit{
+  background:#fff; /*stupid IE*/
+    opacity: 0;
+  color:transparent;
+  border:none;
+  outline:none;
+  z-index:-1;
+}
+.search-label{
+  z-index:90;
+}
+.form-group.sb-search-open,
+.no-js .sb-search-open{
+  width:100%;
+}
+.form-group.sb-search-open .form-control-submit,
+.no-js .form-control .form-control-submit {
+	z-index: 90;
+}
